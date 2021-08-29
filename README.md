@@ -21,4 +21,4 @@
 <img src="https://cmryazilim.com/wp-content/uploads/logo-sql-server-tablo-isimleri.jpg" alt="python" width="30" height="30"/> 
 
 - 📫 How to reach me: My e-posta: Lombees@hotmail.com
-- My Website: Soon...
+- My Website: ASAP
