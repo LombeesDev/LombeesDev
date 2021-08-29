@@ -8,7 +8,7 @@
 ## MOST USED LANGUAGES
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LombeesDev&theme=dracula&show_icons=true)
 ## Profile views
-![](https://komarev.com/ghpvc/?username=LombeesDev&theme=dracula&show_icons=true)
+![](https://komarev.com/ghpvc/?username=antonkomarev&theme=dracula&show_icons=true)
 
 
 <h3 align="center">Languages and Tools:</h2>
